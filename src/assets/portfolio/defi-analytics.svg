@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="DeFi analytics dashboard">
+  <rect width="1200" height="675" fill="#111827"/>
+  <rect x="80" y="72" width="1040" height="530" rx="26" fill="#F5F7FB"/>
+  <rect x="116" y="112" width="250" height="450" rx="16" fill="#E8EDF7"/>
+  <rect x="406" y="112" width="678" height="180" rx="16" fill="#FFFFFF"/>
+  <rect x="406" y="326" width="324" height="236" rx="16" fill="#FFFFFF"/>
+  <rect x="760" y="326" width="324" height="236" rx="16" fill="#FFFFFF"/>
+  <path d="M452 254C520 170 566 232 626 182s108-30 152 10 91 58 248-44" fill="none" stroke="#2563EB" stroke-width="10" stroke-linecap="round"/>
+  <path d="M452 254c88-42 126-4 186-30s105-38 164 14 126 36 224 10" fill="none" stroke="#10B981" stroke-width="7" stroke-linecap="round" opacity=".8"/>
+  <g fill="#2563EB">
+    <rect x="456" y="484" width="36" height="50" rx="8"/>
+    <rect x="512" y="430" width="36" height="104" rx="8"/>
+    <rect x="568" y="462" width="36" height="72" rx="8"/>
+    <rect x="624" y="392" width="36" height="142" rx="8"/>
+  </g>
+  <circle cx="924" cy="445" r="76" fill="none" stroke="#10B981" stroke-width="24"/>
+  <path d="M924 369a76 76 0 0 1 64 117" fill="none" stroke="#2563EB" stroke-width="24" stroke-linecap="round"/>
+  <text x="118" y="638" fill="#F5F7FB" font-family="Arial, sans-serif" font-size="42" font-weight="700">DeFi Analytics and Trading UI</text>
+</svg>

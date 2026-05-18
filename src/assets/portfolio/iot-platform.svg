@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="IoT platform realtime interface">
+  <rect width="1200" height="675" fill="#0C1222"/>
+  <rect x="100" y="90" width="1000" height="495" rx="24" fill="#111A31" stroke="#68E1FD" stroke-width="3"/>
+  <g fill="#68E1FD">
+    <circle cx="302" cy="270" r="58"/>
+    <circle cx="604" cy="196" r="42"/>
+    <circle cx="828" cy="324" r="52"/>
+    <circle cx="492" cy="438" r="38"/>
+    <circle cx="928" cy="464" r="34"/>
+  </g>
+  <g stroke="#68E1FD" stroke-width="5" opacity=".62">
+    <path d="M356 254l206-48M642 216l140 80M348 312l112 98M542 436l340 28"/>
+  </g>
+  <rect x="150" y="134" width="238" height="68" rx="16" fill="#172542"/>
+  <rect x="422" y="134" width="170" height="68" rx="16" fill="#172542"/>
+  <rect x="626" y="134" width="170" height="68" rx="16" fill="#172542"/>
+  <rect x="830" y="134" width="220" height="68" rx="16" fill="#172542"/>
+  <text x="126" y="630" fill="#EAFBFF" font-family="Arial, sans-serif" font-size="42" font-weight="700">Realtime IoT Education Platform</text>
+</svg>
