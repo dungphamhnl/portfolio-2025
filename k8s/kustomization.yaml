@@ -6,4 +6,4 @@ resources:
   - service.yaml
 images:
   - name: ghcr.io/dungphamhnl/portfolio-2025
-    newTag: 9e8ab49
+    newTag: e1addb0
